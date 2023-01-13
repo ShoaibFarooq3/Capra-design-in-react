@@ -1,0 +1,195 @@
+.sticky-wrapper {
+  height: 0px;
+}
+.HP64 {
+  width: 1903px;
+}
+.Div_class_hidden {
+  display: none;
+}
+.Div_Class_Para {
+  outline: none;
+}
+/* Hero Page Style */
+.Hero_Page_style {
+  visibility: visible;
+  animation-delay: 0.2s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style_right1 {
+  visibility: visible;
+  animation-delay: 0.2s;
+  animation-name: fadeInUp;
+}
+.Hero_Page_style_right {
+  visibility: visible;
+  animation-delay: 0.2s;
+  animation-name: fadeInRight;
+}
+.Hero_Page_style22 {
+  visibility: visible;
+  animation-delay: 0.4s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style22_right {
+  visibility: visible;
+  animation-delay: 0.4s;
+  animation-name: fadeInRight;
+}
+/* client Page */
+.OWL_Stage_page {
+  transform: translate3d(-1140px, 0px, 0px);
+  transition: all 1s ease 0s;
+  width: 3648px;
+}
+.OWL_Stage_1 {
+  transform: translate3d(-2220px, 0px, 0px);
+  transition: all 1s ease 0s;
+  width: 6105px;
+}
+.Cloned_Style {
+  width: 555px;
+}
+.OWL_item2 {
+  width: 198px;
+  margin-right: 30px;
+}
+.DIv_Class_late {
+  width: 198px;
+  margin-right: 30px;
+}
+.Hero_Page_style3 {
+  visibility: visible;
+  animation-delay: 0.3s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style3_right {
+  visibility: visible;
+  animation-delay: 0.3s;
+  animation-name: fadeInRight;
+}
+.Hero_Page_style_5 {
+  visibility: visible;
+  animation-delay: 0.5s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style_5_right {
+  visibility: visible;
+  animation-delay: 0.5s;
+  animation-name: fadeInRight;
+}
+.Hero_Page_style_6 {
+  visibility: visible;
+  animation-delay: 0.6s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style_6_right {
+  visibility: visible;
+  animation-delay: 0.6s;
+  animation-name: fadeInRight;
+}
+.Hero_Page_style_7 {
+  visibility: visible;
+  animation-delay: 0.7s;
+  animation-name: fadeInLeft;
+}
+.Hero_Page_style_7_right {
+  visibility: visible;
+  animation-delay: 0.7s;
+  animation-name: fadeInRight;
+}
+.ScroolToTOp {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  opacity: 0;
+  cursor: pointer;
+}
+/* .hiddendiv{
+  display: none;
+} */
+.Img_avator {
+  width: 50px;
+}
+
+@font-face {
+  font-family: "LogoName";
+  font-style: normal;
+  font-weight: normal;
+  src: url("RHCAS___.woff") format("woff");
+}
+
+.Hero_Page_style > h1 {
+  font-family: LogoName;
+  font-weight: normal;
+  font-size: 7rem;
+}
+.hero-4,
+.pricing-area {
+  background: hsla(221, 30%, 30%, 1);
+
+  background: linear-gradient(
+    360deg,
+    hsla(221, 30%, 30%, 1) 34%,
+    hsla(216, 40%, 58%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    360deg,
+    hsla(221, 30%, 30%, 1) 34%,
+    hsla(216, 40%, 58%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    360deg,
+    hsla(221, 30%, 30%, 1) 34%,
+    hsla(216, 40%, 58%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#364565", endColorstr="#698CBF", GradientType=1 );
+  min-height: calc((-60vw + 100%) / 2);
+}
+
+.hero-4-img {
+  margin-right: calc((-60vw + 100%) / 2);
+}
+#SignInBtn,
+.header-4 .button,
+.hero-4 .button,
+.features-right .button {
+  background-color: #277feb;
+}
+.fo {
+  opacity: 0.9;
+}
+.notAvail {
+  text-decoration: line-through;
+  opacity: 0.4;
+}
+.footerImage {
+  max-width: 60%;
+}
+.custom_ColorSpan {
+  color: rgba(0, 196, 140, 1);
+  font-family: Open Sans;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  font-family: Inter;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 55px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+
+.Para_Text_Custom {
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
